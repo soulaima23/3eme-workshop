@@ -1,0 +1,12 @@
+h1{
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+p{
+    color: black;
+    font-family: monospace;
+}
+.name{
+    margin-top: 15%;
+}
